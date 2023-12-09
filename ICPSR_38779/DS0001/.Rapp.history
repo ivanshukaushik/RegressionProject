@@ -1,0 +1,8 @@
+load("/Users/ivanshukaushik/Desktop/Fall 23/Regresion and Time Series/code/ICPSR_38779/DS0001/proj2019.rda")
+??proj2019
+load("/Users/ivanshukaushik/Desktop/Fall 23/Regresion and Time Series/code/ICPSR_38779/DS0001/proj2019.rda")
+proj2019
+load("/Users/ivanshukaushik/Desktop/Fall 23/Regresion and Time Series/code/ICPSR_38779/DS0001/38779-0001-Data.rda")
+load("/Users/ivanshukaushik/Desktop/Fall 23/Regresion and Time Series/code/ICPSR_38779/DS0001/38779-0001-Data.rda")
+incidents <- subset(da36448.0004, da38779.0001$V4022 != "(1) Outside U.S.")
+load("/Users/ivanshukaushik/Downloads/38779-0001-Data.rda")

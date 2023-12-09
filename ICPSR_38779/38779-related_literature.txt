@@ -1,0 +1,21 @@
+Bibliography
+Uniform Crime Reporting Program Data: Arrests by Age, Sex, and Race, United
+States, 2019
+
+This bibliography includes published and unpublished works that are related 
+to ICPSR study 38779. It includes works that are based on primary
+or secondary analysis of the data, or which describe or critique those
+data or the collection methodology. 
+
+If you publish a work or know of other works that are based on these data,
+please send the complete citation and name of the ICPSR study used to:
+icpsr-biblio-notify@umich.edu 
+
+
+1. Sheehan, Brynn E.; Grucza, Richard A.; Plunk, Andrew D., "Association of
+racial disparity of cannabis possession arrests among adults and youths
+with statewide cannabis decriminalization and legalization." JAMA Health
+Forum. 2021, 2, (10),. DOI: 10.1001/jamahealthforum.2021.3435
+
+2. Wang, Yiwen, "The Effect of Marijuana Legalization on Juvenile
+Delinquency." Thesis, Georgetown University, 2023.

@@ -1,0 +1,53 @@
+File Manifest for ICPSR 38740
+
+United States. Federal Bureau of Investigation. Uniform Crime Reporting
+Program Data: Arrests by Age, Sex, and Race, United States, 2017.
+ICPSR38740-v1. Ann Arbor, MI: Inter-university Consortium for Political and
+Social Research [distributor], 2023-09-27.
+http://doi.org/10.3886/ICPSR38740.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    38740-descriptioncitation.pdf       -       -         -       2023-09-27  -
+
+    38740-related_literature.txt        -       -         -       daily       -
+
+    38740-manifest.txt                  -       -         -       daily       -
+
+
+DS0001 Uniform Crime Reporting Program Data: Arrests by Age, Sex, and Race,
+United States, 2017
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    38740-0001-Codebook-ICPSR.pdf       -       -         -       2023-09-27  72e7dc088174393130ecec4ece113d34
+
+    38740-0001-Data.dta                 -       1,727,800 89      2023-09-27  310d55e3b2aea657a77535e792c1b171
+
+    38740-0001-Data.rda                 -       1,727,800 89      2023-09-27  188372f97b31cea973c20699fd5bd8c7
+
+    38740-0001-Data.sav                 -       1,727,800 89      2023-09-27  3c437c2848b4eb5db25b809abfb531c2
+
+    38740-0001-Data.stc                 -       1,727,800 89      2023-09-27  e12ebf8aa5f0ef2cbd1a4b7821fc225d
+
+    38740-0001-Data.tsv                 -       1,727,800 89      2023-09-27  cfdd8f5d6f758e571f7a56c3bddaccbc
+
+    38740-0001-Data.txt                 408     1,727,800 89      2023-09-27  b738294ec3b51b653f1b4de8263d5f8c
+
+    38740-0001-Setup.dct                -       -         -       2023-09-27  2548c65d6ca8ed48514af1bed1e2d405
+
+    38740-0001-Setup.do                 -       -         -       2023-09-27  ba69df3af2e21f2325365d473e7ca2bd
+
+    38740-0001-Setup.sas                -       -         -       2023-09-27  3e8f0038e834468944510aaff40a2b9d
+
+    38740-0001-Setup.sps                -       -         -       2023-09-27  42e54c0742c206529981a0eb38f7f722
+
+    38740-0001-Supplemental_syntax.do   -       -         -       2023-09-27  ad0dbcf3fc0bbd2cd83590c6ccb6b850
+
+    38740-0001-Supplemental_syntax.sas  -       -         -       2023-09-27  ba69d02cb6fe3b12747d4c87c63aef98
+

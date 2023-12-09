@@ -1,0 +1,53 @@
+File Manifest for ICPSR 38779
+
+United States. Federal Bureau of Investigation. Uniform Crime Reporting
+Program Data: Arrests by Age, Sex, and Race, United States, 2019.
+ICPSR38779-v1. Ann Arbor, MI: Inter-university Consortium for Political and
+Social Research [distributor], 2023-09-28.
+http://doi.org/10.3886/ICPSR38779.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    38779-descriptioncitation.pdf       -       -         -       2023-09-28  -
+
+    38779-related_literature.txt        -       -         -       daily       -
+
+    38779-manifest.txt                  -       -         -       daily       -
+
+
+DS0001 Uniform Crime Reporting Program Data: Arrests by Age, Sex, and Race,
+United States, 2019
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    38779-0001-Codebook-ICPSR.pdf       -       -         -       2023-09-28  764a53a4e5afe1c915a031e46cb7c8e5
+
+    38779-0001-Data.dta                 -       1,356,025 89      2023-09-28  843a6fbecfbc646acc477a1cb3f65ba6
+
+    38779-0001-Data.rda                 -       1,356,025 89      2023-09-28  7aac8a645292ef72d4395c61e4980aa1
+
+    38779-0001-Data.sav                 -       1,356,025 89      2023-09-28  ae06027ec6db95c2ae396516ba1ce2d0
+
+    38779-0001-Data.stc                 -       1,356,025 89      2023-09-28  bdab0c4a85c3bdc5a2ca175bb0dae7b4
+
+    38779-0001-Data.tsv                 -       1,356,025 89      2023-09-28  6e968964795926a7d4c6d90ef93f140f
+
+    38779-0001-Data.txt                 408     1,356,025 89      2023-09-28  7cbbb98252dd13ba5cca27be36a9d8a0
+
+    38779-0001-Setup.dct                -       -         -       2023-09-28  0d2217a8ae8f61d466da82d3137def35
+
+    38779-0001-Setup.do                 -       -         -       2023-09-28  4d75a6eac4444a392b3def7721600018
+
+    38779-0001-Setup.sas                -       -         -       2023-09-28  d67bab8e640e3e9efcf64355530653fd
+
+    38779-0001-Setup.sps                -       -         -       2023-09-28  4727855a234234bb1c17599bf631ea81
+
+    38779-0001-Supplemental_syntax.do   -       -         -       2023-09-28  dc3a38a4da5b59b4d66bfe716a9ebcff
+
+    38779-0001-Supplemental_syntax.sas  -       -         -       2023-09-28  87e963d84309a37c746694f343eac7a3
+

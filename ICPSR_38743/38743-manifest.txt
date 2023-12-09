@@ -1,0 +1,53 @@
+File Manifest for ICPSR 38743
+
+United States. Federal Bureau of Investigation. Uniform Crime Reporting
+Program Data: Arrests by Age, Sex, and Race, United States, 2018.
+ICPSR38743-v1. Ann Arbor, MI: Inter-university Consortium for Political and
+Social Research [distributor], 2023-09-27.
+http://doi.org/10.3886/ICPSR38743.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    38743-descriptioncitation.pdf       -       -         -       2023-09-27  -
+
+    38743-related_literature.txt        -       -         -       daily       -
+
+    38743-manifest.txt                  -       -         -       daily       -
+
+
+DS0001 Uniform Crime Reporting Program Data: Arrests by Age, Sex, and Race,
+United States, 2018
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    38743-0001-Codebook-ICPSR.pdf       -       -         -       2023-09-27  d4e73f7d3b09d581eb14712f38709365
+
+    38743-0001-Data.dta                 -       1,474,847 89      2023-09-27  4ffdbe77ce47e73baa7f2b79c050c5c5
+
+    38743-0001-Data.rda                 -       1,474,847 89      2023-09-27  6d7199a4eab9feb1c5cc31dab86b2998
+
+    38743-0001-Data.sav                 -       1,474,847 89      2023-09-27  2901b73109785cedd567257870b99ccc
+
+    38743-0001-Data.stc                 -       1,474,847 89      2023-09-27  0258680f0fc28e5db53b0a46ce032a83
+
+    38743-0001-Data.tsv                 -       1,474,847 89      2023-09-27  eeefed8ac97b6eb3af54374b46c90ae0
+
+    38743-0001-Data.txt                 408     1,474,847 89      2023-09-27  1a90ef6309bd543b72e4a095383f972a
+
+    38743-0001-Setup.dct                -       -         -       2023-09-27  829118d053805888ed3e5fa15c07cd57
+
+    38743-0001-Setup.do                 -       -         -       2023-09-27  8de87c0a64726eed312e0b128bd24d76
+
+    38743-0001-Setup.sas                -       -         -       2023-09-27  4dd5ebf0e7e67b958bdc17a33a9d7953
+
+    38743-0001-Setup.sps                -       -         -       2023-09-27  bb31bcfac20a3f6785286e9b502d9b5e
+
+    38743-0001-Supplemental_syntax.do   -       -         -       2023-09-27  8d1bbcec5ab019c1eccf4da4f14feda6
+
+    38743-0001-Supplemental_syntax.sas  -       -         -       2023-09-27  69c07cf3cbc8545f3b45d410a95f114b
+
